@@ -9,7 +9,7 @@ Developed during OneMonth course
 
 body {
 
-	background: url('/images/raccoon_hi.jpg');
+	background: url("/images/raccoon_hi.jpg"); 
 	/* the follow is the code to have the image display as a full page */
 	background-position: center;
 	background-attachment: fixed;
